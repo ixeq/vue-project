@@ -115,7 +115,6 @@ Vue.component('product', {
             required: true
         }
     },
- // Тут будут описание данных, методов, вычисляемых свойств
  })
 
  Vue.component('product-details',{
